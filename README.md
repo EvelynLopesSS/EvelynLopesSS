@@ -13,13 +13,18 @@
 </div> <br> 
 <div align="center" style="display: inline_block"><br>     
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Flask" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg">
-  <img align="center" alt="Mongo height="30" width="40" src="https://icongr.am/devicon/mongodb-original.svg?size=128&color=currentColor">
-  <img align="center" alt="Slq" height="30" width="40" src="https://icongr.am/devicon/mysql-original.svg?size=128&color=f5f5f5">
-  <img align="center" alt="sql2" height="30" width="40" src="https://icongr.am/devicon/postgresql-original.svg?size=128&color=f5f5f5">
+  <img align="center" alt="R" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg">
+  <img align="center" alt="JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="html" height="30" width="40" src="https://icongr.am/devicon/html5-original.svg?size=128&color=f5f5f5">
+  <img align="center" alt="Flask" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg">
+  <img align="center" alt="Mongo" height="30" width="40" src="https://icongr.am/devicon/mongodb-original.svg?size=128&color=currentColor">
+  <img align="center" alt="Slq" height="30" width="40" src="https://icongr.am/devicon/mysql-original.svg?size=128&color=f5f5f5">
+  <img align="center" alt="sql2" height="30" width="40" src="https://icongr.am/devicon/postgresql-original.svg?size=128&color=f5f5f5">
+  <img align="center" alt="pytorch" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-plain-wordmark.svg">
   <img align="center" alt="Tensorf" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg">
+  <img align="center" alt="selenium" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg">
+  <img align="center" alt="opencv" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original-wordmark.svg">
 </div>
     
   ##
