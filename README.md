@@ -25,6 +25,7 @@
   <img align="center" alt="Tensorf" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg">
   <img align="center" alt="selenium" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg">
   <img align="center" alt="opencv" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original-wordmark.svg">
+  <img align="center" alt="Pyspark" height="40" width="60" src="https://spark.apache.org/images/spark-logo-trademark.png">
 </div>
     
   ##
